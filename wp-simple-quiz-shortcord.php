@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: クイズ作成プラグイン
+Plugin Name: シンプルクイズショートコード
 Description: ショートコードで、選択式のクイズを作成する事が出来ます。
 Version: 1.0
 */
