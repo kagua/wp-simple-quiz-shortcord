@@ -2,7 +2,7 @@
 
 WordPressでショートコードで使えるシンプルなクイズプラグインです。
 
-![オープンスポットのコピー](https://github.com/kagua/wp-simple-quiz-shortcord/assets/631291/3a5b43c0-ace3-4cb2-bbe3-c8d0ed12c721)
+![オープンスポットのコピー](https://github.com/kagua/wp-simple-quiz-shortcord/assets/631291/cc731dff-f721-4764-9b63-039a9505ce84)
 
 ## プラグイン名
 
